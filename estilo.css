@@ -1,0 +1,20 @@
+b {
+    color: red;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+li {
+    color: blueviolet;
+}
+
+img {
+    border:1px dotted purple;
+}
+
+h1{
+    height: 30px;
+    background-color: brown;
+}
